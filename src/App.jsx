@@ -1,5 +1,5 @@
 import styles from './style'
-import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer} from './components'
+import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, Footer} from './components'
 import Page from './components/Card'
 import StepByStepPage from './components/StepForm'
 
