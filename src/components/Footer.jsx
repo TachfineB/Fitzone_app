@@ -1,6 +1,6 @@
 import styles from "../style"
 import { logo } from "../assets"
-import { footerLinks, socialMedia } from "../constants"
+import { footerLinks, socialMedia } from "../constants/index3"
 
 
 const Footer = () => (

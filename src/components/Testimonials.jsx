@@ -1,5 +1,5 @@
 import { card } from '../assets'
-import {feedback} from '../constants'
+import {feedback} from '../constants/index3'
 import styles from '../style'
 import FeedbackCard from './FeedbackCard'
 import FeedbackInput from './FeedbackInput'

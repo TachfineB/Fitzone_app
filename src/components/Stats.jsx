@@ -1,4 +1,4 @@
-import {stats} from '../constants'
+import {stats} from '../constants/index3'
 import styles from '../style'
 
 
